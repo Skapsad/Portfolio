@@ -1,0 +1,80 @@
+*
+{
+    background-color: #4A4A4A;
+    font-family: Impact;
+    letter-spacing: 1px;
+    margin: 0;
+    padding: 0;
+}
+
+#navbar {
+    background-color: #212121;
+    padding: 20px 0;
+    width: 100%;
+}
+
+nav ul {
+    background-color: #212121;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-color: #212121;
+    border-radius: 5px;
+    padding: 5px 5px;
+}
+
+a:hover {
+    background-color: #323232;
+    padding: 5px 5px;
+}
+
+li {
+    display: inline;
+    margin: 15px;
+    background-color: #212121;
+}
+
+.profilePic {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    position: absolute;
+    left: 630px;
+    top: 150px;
+    object-fit: cover;
+    border: 2px solid white;
+}
+
+.navName {
+    color: white;
+    background-color: #212121;
+    font-size: 18px;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    position: absolute;
+    left: 20px;
+    top: 18px;
+}
+
+.name {
+    color: white;
+    letter-spacing: 1px;
+    font-weight: lighter;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 370px;
+}
+
+.title {
+    color: white;
+    letter-spacing: 1px;
+    font-weight: lighter;
+    font-size: 40px;
+    text-align: center;
+}
