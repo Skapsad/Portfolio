@@ -1,66 +1,32 @@
-# Abdullah Qaiser Portfolio Website
+## Abdullah Qaiser's Assignment 1 Portfolio
 
-This repository contains my personal portfolio website.
+This is my portfolio website that includes a navbar on every pahge with my name on the left and the tabs on the right. I have also added a hover effect on the buttons to make it look better and more visually appealing.
 
-The website is built using HTML5 and CSS3. It currently includes a Home page with a personal navigation bar, profile image, name, and title.
+# Home Page
 
-## Features
+The home page consists of a profie image of me and my title which in this case is "Networking and It Security Student". I also added imaged links to 3 of my socials. At the bottom i added the footer as requested. The email is clickable and uses the "mailto" href (not action since it is not a form).
 
-- Navigation bar with links to:
-  - Home
-  - About Me
-  - Projects
-  - Contact Me
-- Personal name displayed on the left side of the navigation bar
-- Navigation links aligned on the right side
-- Hover effect for navigation links
-- Circular profile photo
-- Main heading with my name
-- Subtitle: “Networking and IT Security Student”
-- Semantic HTML elements including `header` and `nav`
+# About Me Page
 
-## Technologies Used
+This page is currently empty
 
-- HTML5
-- CSS3
-- Git
-- GitHub
+# Projects Page
 
-## Project Structure
+This page is currently empty
 
-```text
-portfolio-website/
-│
-├── index.html
-├── styles.css
-├── README.md
-│
-└── assets/
-    └── profile.jpg
-```
+# Contact Me Page
 
-## Design
+This page is currently empty
 
-The website currently uses a dark gray colour scheme.
+# Color Scheme
 
-- Main page background: `#4A4A4A`
-- Navigation bar background: `#212121`
-- Navigation hover background: `#323232`
-- Text colour: `#FFFFFF`
+Following is the link to the colour scheme i decided to use. It is a dark themed scheme with white text and images where required.
 
-The dark colour palette gives the portfolio a simple, modern appearance while keeping text readable.
+https://color.adobe.com/create/color-wheel?color-palette=2C2C2C%2C212121%2CFFFFFF&color-palette-name=My+Color+Theme
 
-## Current Layout
-
-The navigation bar is displayed across the top of the webpage.
-
-- My name, “ABDULLAH QAISER,” appears on the left side of the navbar.
-- Navigation links appear on the right side.
-- The navigation links change background colour when the mouse hovers over them.
-- A circular profile picture appears below the navigation bar.
-- My name and title are displayed beneath the profile picture.
+I have not yet decided where i would put the gradient and which colours to use
 
 ## Author
-
-Abdullah Qaiser  
-Networking and IT Security Student
+Abdullah Qaiser
+101019039
+Version 1.0
