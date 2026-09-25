@@ -1,0 +1,74 @@
+#navbar {
+    padding: 15px 10px;
+    text-align: center;
+}
+
+.navName {
+    float: none;
+    margin-bottom: 15px;
+    font-size: 17px;
+}
+
+nav {
+    float: none;
+}
+
+nav ul {
+    text-align: center;
+}
+
+nav li {
+    display: block;
+    margin: 8px 0;
+}
+
+nav li a {
+    width: 90%;
+    padding: 10px;
+}
+
+.mainHead {
+    width: 100%;
+    padding: 40px 15px;
+}
+
+.profilePic {
+    width: 120px;
+    height: 120px;
+    margin-bottom: 20px;
+}
+
+.name {
+    font-size: 42px;
+    line-height: 1.1;
+    overflow-wrap: break-word;
+}
+
+.title {
+    margin-top: 12px;
+    font-size: 24px;
+    line-height: 1.2;
+}
+
+.socialIcons {
+    margin-top: 25px;
+}
+
+.socialIcons a {
+    margin: 0 7px;
+}
+
+.logos {
+    width: 42px;
+    height: 42px;
+}
+
+.footer {
+    min-height: 130px;
+    padding: 20px 10px;
+    font-size: 15px;
+}
+
+.footer p {
+    margin: 12px 0;
+}

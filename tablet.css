@@ -1,0 +1,40 @@
+#navbar {
+    padding: 18px 3%;
+}
+
+nav li {
+    margin-left: 15px;
+}
+
+#main {
+    min-height: calc(100vh - 160px);
+}
+
+.mainHead {
+    min-height: calc(100vh - 370px);
+}
+
+.profilePic {
+    width: 135px;
+    height: 135px;
+}
+
+.name {
+    font-size: 65px;
+}
+
+.title {
+    font-size: 30px;
+}
+
+.logos {
+    width: 45px;
+    height: 45px;
+}
+
+
+
+.footer {
+    min-height: 160px;
+    margin-top: 0;
+}
