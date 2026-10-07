@@ -2,7 +2,9 @@
 
 This is my portfolio website that includes a navbar on every pahge with my name on the left and the tabs on the right. I have also added a hover effect on the buttons to make it look better and more visually appealing.
 
-In version 2 I removed the scroll bar entirely to make the website more appealing. However the scroll feature is stil available.
+In version 2.5 I removed the scroll bar entirely to make the website more appealing. However the scroll feature is stil available.
+
+I have added the about me page and I have also added the Contact Me page however the about me page currently has no video.
 
 # Home Page
 
@@ -10,11 +12,11 @@ The home page consists of a profie image of me and my title which in this case i
 
 # About Me Page
 
-This page is currently empty
+In the about me page i have added a small introduction about me and a picture of me as well. I have yet to add a video.
 
 # Projects Page
 
-This page is currently empty
+In the Projects page I have added 4 projects and all of them are separated in their own sections. Each project has a title name and also a description about the project. Each project has its own project card. I also added a neon glow using border shadows.
 
 # Contact Me Page
 
@@ -29,4 +31,4 @@ https://color.adobe.com/create/color-wheel?color-palette=2C2C2C%2C212121%2CFFFFF
 ## Author
 Abdullah Qaiser
 101019039
-Version 2.0
+Version 2.5
