@@ -1,0 +1,133 @@
+/* styles-phone.css */
+
+body {
+  overflow-x: hidden;
+}
+
+/* Navbar: stack links vertically on phones */
+#navbar {
+  padding: 15px 5%;
+  min-height: auto;
+}
+
+.navName {
+  float: none;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+nav {
+  float: none;
+  text-align: center;
+}
+
+nav li {
+  display: block;
+  margin: 8px 0;
+}
+
+nav li a {
+  display: block;
+  padding: 8px;
+  font-size: 14px;
+}
+
+/* Home */
+.mainHead {
+  padding: 30px 15px 25px;
+}
+
+.name {
+  font-size: 42px;
+}
+
+.title {
+  font-size: 20px;
+}
+
+.profilePic {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto 15px;
+}
+
+.socialIcons a {
+  margin: 0 8px;
+}
+
+.logos {
+  width: 40px;
+  height: 40px;
+}
+
+/* Contact form: remove big fixed margins, make it responsive */
+.form {
+  margin: 30px 10px;
+  padding: 20px;
+  max-width: 100%;
+}
+
+form {
+  font-size: 14px;
+}
+
+.submitBtn,
+.resetBtn {
+  width: 120px;
+  height: 42px;
+  font-size: 20px;
+  margin: 5px 5px 0 0;
+}
+
+textarea,
+input {
+  width: 100%;
+  font-size: 14px;
+  padding: 8px;
+}
+
+/* Projects */
+.projectContainer {
+  width: 95%;
+  margin: 30px auto 20px;
+  gap: 25px;
+}
+
+.project {
+  padding: 18px 20px;
+  max-width: 100%;
+}
+
+.projectImg {
+  height: 200px;
+}
+
+.text {
+  font-size: 13px;
+}
+
+.projectImages {
+  grid-template-columns: 1fr;
+  gap: 10px;
+}
+
+/* About Me */
+#aboutImg {
+  height: 220px;
+  width: 220px;
+  margin-top: 30px;
+}
+
+.text_2 {
+  font-size: 18px;
+  text-align: center;
+}
+
+/* Footer */
+.footer {
+  min-height: 90px;
+  padding: 15px;
+  font-size: 12px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}

@@ -70,6 +70,7 @@ nav li a:hover {
     width: 100%;
     min-height: 135px;
     padding: 25px;
+    padding-bottom: 0px;
     box-sizing: border-box;
     background-color: #212121;
     color: white;
@@ -259,11 +260,11 @@ input[type="submit"]:hover {
     align-items: center;
 }
 
-#music {
+#music1, #music2, #music3 {
     height: 150px;
 }
 
-#DOD {
+#DOD1, #DOD2, #DOD3 {
     height: 200px;
 }
 
@@ -282,5 +283,15 @@ input[type="submit"]:hover {
     font-size: 30px;
     line-height: 1.3;
     color: white;
+}
 
+
+/* About Me introductory video */
+.aboutVideo {
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+    margin: 40px auto 0;
+    border: 2px solid white;
+    border-radius: 12px;
 }

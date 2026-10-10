@@ -1,0 +1,76 @@
+.mainHead {
+  padding: 50px 20px 40px;
+}
+
+
+.name {
+  font-size: 64px;
+}
+
+.title {
+  font-size: 28px;
+}
+
+.profilePic {
+  width: 120px;
+  height: 120px;
+  margin-bottom: 20px;
+}
+
+/* Navbar */
+nav li {
+  margin-left: 15px;
+}
+
+nav li a {
+  padding: 4px;
+  font-size: 14px;
+}
+
+/* Contact Me*/
+.form {
+  margin: 40px auto;
+  padding: 25px;
+  max-width: 90%;
+}
+
+.submitBtn,
+.resetBtn {
+  width: 130px;
+  font-size: 24px;
+  height: 45px;
+}
+
+/* Projects */
+.projectContainer {
+  margin: 40px auto 30px;
+  gap: 30px;
+}
+
+.project {
+  padding: 20px 25px;
+}
+
+.projectImg {
+  height: 240px;
+}
+
+.text {
+  font-size: 14px;
+}
+
+/* About Me */
+#aboutImg {
+  height: 300px;
+  width: 300px;
+  margin-top: 40px;
+}
+
+.text_2 {
+  font-size: 24px;
+}
+
+/* Footer */
+.footer {
+  padding: 20px; 
+}
